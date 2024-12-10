@@ -1,6 +1,5 @@
 from turtle import Turtle
 
-
 class Wall(Turtle):
     def __init__(self, position):
         super().__init__()
